@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\obj\Debug\MusicFromVideo.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\obj\Debug\MusicFromVideo.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\obj\Debug\MusicFromVideo.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\obj\Debug\MusicFromVideo.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\bin\Debug\MusicFromVideo.exe.config
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\bin\Debug\MusicFromVideo.exe
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\bin\Debug\MusicFromVideo.pdb
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\obj\Debug\MusicFromVideo.exe
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\obj\Debug\MusicFromVideo.pdb
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\bin\Debug\NReco.VideoConverter.dll
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\bin\Debug\NReco.VideoConverter.xml
+C:\Users\Alex\Documents\Visual Studio 2019\Projects\MusicFromVideo\MusicFromVideo\obj\Debug\MusicFromVideo.csproj.CopyComplete
